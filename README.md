@@ -28,7 +28,7 @@ pip install pygame
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/Conways-Game-Of-Life.git
+   git clone https://github.com/SaiSrikarK03/Conways-Game-Of-Life.git
    ```
 
 2. Navigate to the project directory:
